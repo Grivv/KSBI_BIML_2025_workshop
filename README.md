@@ -14,7 +14,7 @@ Overview
 - "scGPT: toward building a foundation model for single-cell multi-omics using generative AI" Nature methods (2024)
 - "DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genomes" ICLR (2024)
 - "Evolutionary-scale prediction of atomic-level protein structure with a language model" Science (2023)
-
+----------
 - Title : Advanced Deep Learning Models for Biomedical Research
 - Location : 서울대학교 자연과학대학 대형강의동 28동
 - Date : 2025.02.26(Wed) 09:30 ~ 16:50
