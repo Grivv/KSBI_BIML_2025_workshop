@@ -1,6 +1,6 @@
 # KSBI_BIML_2025_workshop
 
-<img width="750" alt="main_banner" src="https://github.com/user-attachments/assets/9a1215db-f702-40a3-b822-5765c6a540b2">
+<img width="750" alt="main_banner" src="https://github.com/user-attachments/assets/c70bd4b9-dfbc-43e0-9e0c-7dba6a3ce009">
 
 
 Overview
